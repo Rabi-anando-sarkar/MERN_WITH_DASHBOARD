@@ -1,0 +1,31 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore .env file
+.env
+
+# Optional: Uncomment the following lines if you use npm to manage dependencies and want to ignore the package-lock.json file
+# npm-debug.log
+# package-lock.json
+
+# Optional: Ignore log files and other generated files
+logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Ignore yarn error logs
+yarn-error.log
+
+# Ignore environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore .DS_Store (Mac)
+.DS_Store
+
+# Ignore Thumbs.db (Windows)
+Thumbs.db
